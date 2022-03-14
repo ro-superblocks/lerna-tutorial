@@ -12,6 +12,6 @@
   "dependencies": {
     "alpha": "^0.0.4-alpha.0",
     "beta": "^0.0.1-alpha.0",
-    "shared": "^0.0.2-alpha.0"
+    "shared": "*"
   }
 }
