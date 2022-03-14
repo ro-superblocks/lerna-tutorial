@@ -1,1 +1,1 @@
-module.exports = 'this is shared 3'
+module.exports = 'this is shared 4'
