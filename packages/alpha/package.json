@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
-    "shared": "^0.0.4-alpha.0"
+    "shared": "0.0.4-alpha.0"
   }
 }
